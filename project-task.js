@@ -72,3 +72,15 @@ for (let i = 0; i < names.length; i++) {
 */
 
 // ✅ Your refactored code goes below this line!
+
+
+// Scripot 1 - Greeting
+
+function greet(name) {   
+    console.log("Welcome, " + name + "!");
+ }
+ greet("Alice");
+ greet("Bob");
+ greet("Charlie");
+
+//
